@@ -1,0 +1,4 @@
+#Fri Sep 22 18:19:30 COT 2023
+base.0=D\:\\Trabajo\\Clases\\pokemon_consumo_api\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
